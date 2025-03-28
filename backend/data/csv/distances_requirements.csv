@@ -1,0 +1,4 @@
+﻿regulation_id,regulation_name,regulation_info,storage_gal_min,storage_gal_max,safety_distance_ft
+1,OSHA 1910.103,distance between lh2 and flammable liquids or buildings',0,30000,100
+2,OSHA 1910.103,distance between lh2 and people',3500,,75
+3,DOT 49.B.III.B.397,distance between lh2 and open fire',0,,300

@@ -1,0 +1,8 @@
+﻿regulation_id,regulation_name,regulation_info,storage_gal_min
+6,OSHA 1910.119,handling of hazardous materials will follow safety protocols,16830
+7,J2600_201510 4.2.2,nozzle and receptacle designs shall prevent vehicles from being fueled with a pressure class greater than vehicle,
+8,J2600_201510 4.2.3,nozzle and receptacle designs shall be designed to operate properly with a local ambient temperature of –40 to 65 °C,
+9,J2600_201510 4.2.4.5,"materials used in construction of nozzles, receptacles, and dust caps shall be non-sparking or spark-reducing",
+10,J2600_201510 4.2.4.6,"Nozzles and receptacles shall be designed so that they are either tolerant of solid contamination, or have a means to protect themselves from said contamination when connected or disconnected",
+11,J2600_201510 4.3.7.8,The receptacle/fuel storage connection shall be able to withstand normal abuse encountered in the installation and maintenance process without damage or deformation to the joint,
+12,J2600_201510 5.5.3,"At the end of the test procedure, the samples shall not exhibit evidence of explosive decompression damage, swelled more than 25%, have shrunk more than 1%, or have incurred a weight loss of more than 10%.",

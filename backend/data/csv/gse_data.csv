@@ -1,0 +1,15 @@
+﻿Ground support Equipment,Fuel used,Fuel Consumption Online,Average speed (mi/hr),Usable Fuel Consumption (ft3/min),Operating time - Departure,Operating Time - Arrival,Notes,link
+F250,Diesel,15 mpg,20,0.002970689,8,7,7.3L Diesel PowerStroke V8,"https://www.lawa.org/-/media/lawa-web/lawa-rules-and-reg/lax-rules/section-11---airside-motor-vehicles-operations.ashx#:~:text=the%20solid%20VSR-,markings.,designee."
+FMC Commander 15 ,Diesel,0.34 lb/hp*hr,7,0.012296667,40,40,100hp,https://www.deutzusa.com/products/diesel-engines?tx_deutzengines_pi1%5Baction%5D=list&tx_deutzengines_pi1%5Bcontroller%5D=Engine&tx_deutzengines_pi1%5Bengine%5D=43&cHash=ad6b074fa0aec214bd0550912f10b8ef
+Hi-Way / TUG 660,Diesel,26.9 l/hr,,0.015832757,5,5,,https://tickets.wellandpower.net/hc/en-us/articles/360002184178-All-About-the-Perkins-1104C-44TAG2-Engine
+F650_1,Diesel,11 mpg,20,0.004050939,8,7,,https://www.ford-trucks.com/forums/142001-f650-fuel-mileage.html
+F650_2,Diesel,11 mpg,20,0.004050939,10,10,,https://www.ford-trucks.com/forums/142001-f650-fuel-mileage.html
+F650_3,Diesel,11 mpg,20,0.004050939,18,17,,https://www.ford-trucks.com/forums/142001-f650-fuel-mileage.html
+Stewart & Stevenson TUG 660_1,Gasoline,14 mpg,7,0.001114008,15,15,,"https://www.fuelly.com/car/ford/f-150/1995#:~:text=Based%20on%20data%20from%20161,0.09%20MPG%20margin%20of%20error."
+Stewart & Stevenson TUG 660_2,Gasoline,14mpg,7,0.001114008,18,17,,"https://www.fuelly.com/car/ford/f-150/1995#:~:text=Based%20on%20data%20from%20161,0.09%20MPG%20margin%20of%20error."
+Stewart & Stevenson TUG 660_3,Gasoline,14mpg,7,0.001114008,24,24,,"https://www.fuelly.com/car/ford/f-150/1995#:~:text=Based%20on%20data%20from%20161,0.09%20MPG%20margin%20of%20error."
+Stewart & Stevenson TUG MA 50_1,Gasoline,11 gal/hr,,0.024508183,18,17,,
+Stewart & Stevenson TUG MA 50_2,Gasoline,11 gal/hr,,0.024508183,38,37,,
+Stewart & Stevenson TUG MA 50_3,Gasoline,11 gal/hr,,0.024508183,60,60,,
+TLD 1410ï¿½,Diesel,16 mpg,20,0.002785021,0,15,,"https://www.badgertruck.com/2020-isuzu-npr-mpg-specifications/#:~:text=2020%20Isuzu%20NPR%20MPG%20By,Diesel:%208.82%20MPG%20(estimated)"
+Wollard TLS-770 / F350ï¿½,Diesel,15 mpg,20,0.002970689,0,25,,https://www.fuelly.com/car/ford/f-350_super_duty
